@@ -1,0 +1,18 @@
+body
+{
+    background-color: hsl(180, 39%, 76%);
+    color:rgb(116, 30, 255);
+}
+.heading
+{
+  width: 100%;
+}
+#camera{
+    border: 2px ,black;
+    width:350px;
+    height: 350px;
+}
+.name_of_objects{
+    color: rebeccapurple;
+    
+}
